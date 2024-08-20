@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/c14b36a0-e9c2-40b8-b81a-948ddd2947ae
 
 ## Overview
 
-**ProMicroMacropad** is a customizable and programmable piano keyboard built using using an ESP32. It's an easy project for new coders to learn programming. The programmable macropad has a a 24 programmable capacitive touch sensor.
+**SolarPoweredPiano** is a customizable and programmable piano keyboard built using using an ESP32. It's an easy project for new coders to learn programming. The programmable macropad has a a 24 programmable capacitive touch sensor.
 
 ## 3D Model
 
