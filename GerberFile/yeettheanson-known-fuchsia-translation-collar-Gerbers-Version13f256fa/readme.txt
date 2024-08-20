@@ -1,5 +1,5 @@
 Project Name: Known Fuchsia Translation Collar
-Project Version: #0266f8f8
+Project Version: #13f256fa
 Project Url: https://www.flux.ai/yeettheanson/known-fuchsia-translation-collar
 
 Project Description:
